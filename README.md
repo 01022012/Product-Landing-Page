@@ -10,7 +10,6 @@
 Some sections of the index.html contain nice JS transitions to reveal content like the testimonials below. 
 ![screencast](http://g.recordit.co/PHHCzVULZd.gif)
 
-The below picture shows panels collaspsing.
 ![screencast](http://g.recordit.co/0EG88azNyE.gif)
 
 ## Installation
