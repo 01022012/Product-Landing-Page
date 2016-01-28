@@ -2,9 +2,6 @@
 
 **Product Landing Page** is for showcasing any saas based product with pricing, features, and testimonials.
 
-## Preview
-![screencast](http://g.recordit.co/uwxb8NxJIE.gif)
-
 ## Features
 
 **Product Landing Page** consists of a flat style landing page promoting a digital product, with a simple CTA button to register for a Slack group.
